@@ -1,0 +1,74 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+  
+.dice{
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+  
+body{
+    background-color: lightgrey;
+        margin: 0;
+}
+  
+nav{
+    background-color: black;
+    height: 4rem;
+    width: 100%;
+    font-family: cursive;
+    color: sienna;
+    font-size: 2.5rem;
+    text-align: center;
+}
+  
+p{
+    font-size: 2rem;
+    color: sienna;
+    font-family: fantasy;
+}
+  
+img{
+    width: 9rem;
+    padding-top: 5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+h3{
+    font-family: fantasy;
+    font-size: 1.5rem;
+    color: sienna;
+    text-align: center;
+}
+  
+.play{
+    background: black;
+    font-family: cursive;
+    border-radius: 7px;
+    font-size: 3rem;
+    color: green;
+    padding: 30px 65px 30px 65px;
+    text-decoration: none;
+    text-shadow: 2px 0 tomato;
+}
+
+.editNames{
+    background: whitesmoke;
+    font-family: cursive;
+    border-radius: 7px;
+    font-size: 20px;
+    color: darkgrey;
+    text-decoration: none;
+}
+
+#history{
+    font-size: 25px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 30px;
+    color: indigo;
+}
