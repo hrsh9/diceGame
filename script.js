@@ -6,8 +6,8 @@ function editPlayerNames() {
     p1 = prompt("Enter 1st Player's Name:");
     p2 = prompt("Enter 2nd player's Name:");
   
-    document.querySelector("p.1stPlayer").innerHTML = p1;
-    document.querySelector("p.2ndPlayer").innerHTML = p2;
+    document.querySelector("p.player1").innerHTML = p1;
+    document.querySelector("p.player2").innerHTML = p2;
 }
   
 //to roll dice 
